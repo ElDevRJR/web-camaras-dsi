@@ -1,0 +1,6 @@
+{
+  "name": "DSI INTEGRA — Seguridad Electrónica & Infraestructura",
+  "description": "Soluciones de seguridad electrónica, videovigilancia, redes, cableado estructurado, pantallas LED e iluminación profesional para espacios residenciales, comerciales y corporativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
